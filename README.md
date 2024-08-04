@@ -30,6 +30,7 @@
 - [AutoCog](https://github.com/andreasjansson/autocog) - Generate predict.py and cog.yaml automatically using GPT4.
 - [Baby Name Generator AI](https://github.com/Pwntus/baby-name-generator-ai) - A baby name generator.
 - [Change Hairstyle AI](https://github.com/Pwntus/change-hairstyle-ai) - Get a new hairstyle in seconds.
+- [Conpilot](https://github.com/Pwntus/conpilot) - Your (unhelpful) AI pair programmer.
 - [Hype](https://github.com/replicate/hype) - A feed of trending repos/models from GitHub, Replicate, HuggingFace, and Reddit.
 - [MyTalkingFace](https://github.com/Pwntus/mytalkingface) - Make a video of your face talk in different languages.
 - [Outpainter](https://github.com/replicate/outpainter) - Expand the contents of an image using generative fill.
