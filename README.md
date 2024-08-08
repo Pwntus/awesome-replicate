@@ -5,6 +5,7 @@
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [Community](#community)
+  - [Tools](#tools)
 - [Projects Using Replicate](#projects-using-replicate)
   - [Open Source](#open-source)
   - [Commercial Products](#commercial-products)
@@ -22,6 +23,12 @@
 
 - [X](https://x.com/replicate)
 - [Discord](https://discord.gg/replicate)
+
+### Tools
+
+- [Prompter](https://github.com/fofr/prompter.fofr.ai) - An app for generating prompts.
+- [Replicate Predict](https://github.com/fofr/replicate-predict) - JavaScript wrapper to run and save batches of API calls on Replicate.
+- [Replicate Webhook Proxy](https://github.com/aurdalgroup/rwp-aws) - Receive your Replicate webhook events through a websocket connection, right in your browser or Node.js code.
 
 ## Projects Using Replicate
 
