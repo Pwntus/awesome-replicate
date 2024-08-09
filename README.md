@@ -49,6 +49,7 @@
 - [Teach-O-Matic](https://colab.research.google.com/drive/1pykPRbF0PhMdmUi3X-i8sCL5jnUQxSwb?usp=sharing) - Create how-to videos with AI.
 - [TileMaker](https://github.com/replicate/tilemaker) - Generate tiling images from text using AI.
 - [Waveformer](https://github.com/fofr/waveformer) - Text to music using MusicGen. Save your generations as audio of waveform video.
+- [Wikipedi-AI](https://wikipedi-ai.org) - A fake encyclopedia, created and edited by AI.
 - [Zoo](https://github.com/replicate/zoo) - A playground for comparing AI image models.
 
 ### Commercial Products
